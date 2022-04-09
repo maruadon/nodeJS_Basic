@@ -1,0 +1,23 @@
+{
+  "name": "nodejs_basic",
+  "version": "1.0.0",
+  "description": "this is the code form coders gyan",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev" : "nodemon index"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript"
+  ],
+  "author": "maruadon",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^2.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+    
+  }
+}
